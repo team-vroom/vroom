@@ -17,7 +17,7 @@ CASE 18 - TRAMPOLINE (LOW)
 	Doesn't affect monsters or things.
 	Can be used for platforming puzzles/levels.
 
-CASE 19 - TRAMPONLINE (HIGH)
+CASE 19 - TRAMPOLINE (HIGH)
 	Does the same as CASE 18, with a higher bounce.
 
 CASE 20 - HEALING SECTOR (10 HP)
