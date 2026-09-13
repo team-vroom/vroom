@@ -1,0 +1,33 @@
+The VROOM source-port introduces custom sector types that expand
+mapmaking capabilities beyond the original DOOM engine.
+
+Below is a list of the sector types included in VROOM:
+
+CASE 6 - INSTANT DEATH SECTOR
+	Kills the player instantly upon contact.
+	Doesn't work when God Mode is active.
+	Great for simulating high fall damage.
+
+CASE 15 - MUD SECTOR
+	Slows the player down to a crawl.
+	Monsters are not affected by this sector type.
+
+CASE 18 - TRAMPOLINE (LOW)
+	Sends the player upwards in the air.
+	Doesn't affect monsters or things.
+	Can be used for platforming puzzles/levels.
+
+CASE 19 - TRAMPONLINE (HIGH)
+	Does the same as CASE 18, with a higher bounce.
+
+CASE 20 - HEALING SECTOR (10 HP)
+	When standing inside this sector, the player is healed by 10 every 31 tics.
+	This sector can only heal up to 100% health.
+
+CASE 21 - HEALING SECTOR (20 HP)
+	Same as case 20, but heals 20 hp instead of 10.
+
+CASE 22 - ICE SECTOR
+	Speeds the player up, while making the floor slippery.
+	Good if used with a custom ice or snow texture.
+	Just like mud, monsters aren't affected.
