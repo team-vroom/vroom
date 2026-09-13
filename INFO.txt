@@ -1,0 +1,17 @@
+ABOUT
+=================================================================================================
+VROOM is a source-port of the DOOM engine focused on adding new features & polishing the original
+code.VROOM is a fork of ozkl's doomgeneric port.
+=================================================================================================
+
+LICENSE
+=================================================================================================
+VROOM is protected by the GNU GPL v3.0. See LICENSE for more information about sharing.
+=================================================================================================
+
+PURPOSE
+=================================================================================================
+Originally, VROOM was just a fork that "fixed" things that I found unruly about the DOOM engine.
+Nowadays, it has shifted to introducing completely new features not seen in the original game.
+I am also aiming to fix bugs seen in the original DOOM.
+=================================================================================================
